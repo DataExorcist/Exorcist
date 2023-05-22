@@ -32,6 +32,13 @@ Some companies will ignore these emails or direct you to a form on their site de
 -   [Advantage Credit Information](https://www.advcredit.com/)
 -   [Advanced Background Checks](https://www.advancedbackgroundchecks.com/)
 -   [Whitepages](https://www.whitepages.com/)
+-   [Epsilon](https://www.epsilon.com/us)
+-   [AllAreaCodes](https://www.allareacodes.com/)
+-   [Amrent](https://www.amrent.com/)
+-   [Lenovo](https://www.lenovo.com/us/en/)
+-   [ADP](https://adp.com)
+-   [Intelius](https://www.intelius.com/)
+-   [NAI](https://thenai.org/)
 
 ## Some future plans - Ideas welcome
 
